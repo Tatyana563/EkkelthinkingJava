@@ -5,6 +5,8 @@ public class Dog extends Pet {
         super(name);
         System.out.println("testing braches");
         System.out.println("conflict5");
+        System.out.println("testing conflict");
+        System.out.println("testing conflict22");
     }
 
 
