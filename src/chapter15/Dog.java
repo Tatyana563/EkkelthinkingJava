@@ -7,6 +7,7 @@ public class Dog extends Pet {
         System.out.println("conflict5");
         System.out.println("testing conflict");
         System.out.println("testing conflict22");
+        System.out.println("555555");
     }
 
 
