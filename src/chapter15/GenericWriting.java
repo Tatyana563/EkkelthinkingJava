@@ -11,7 +11,7 @@ public class GenericWriting {
     static List<Apple> apples = new ArrayList<>();
     static List<Fruit>fruits = new ArrayList<>();
     static void f1(){
-       // writeExact(apples, new Apple());
+        writeExact(apples, new Apple());
         writeExact(fruits, new Apple());
     }
     static <T> void writeWithWildcards(List<? super T>list, T item){
