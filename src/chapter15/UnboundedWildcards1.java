@@ -43,5 +43,6 @@ public class UnboundedWildcards1 {
         assign3(new ArrayList());
         System.out.println("test");
         System.out.println("test2");
+    }
 }
 
